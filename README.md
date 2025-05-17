@@ -7,7 +7,7 @@ Run train.py to generate train.csv
 
 Run rf.py to conduct 10-fold cross-validation with random forest.
 <pre>
-Average accuracy: 0.6366 (±0.0021)
+Average CV accuracy: 0.6366 (±0.0021)
 
 Confusion Matrix:
 [[29676  6031  1939  1009   402   167]
